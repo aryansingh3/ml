@@ -1,0 +1,4397 @@
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+ 
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+ 
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+ 
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+
+Q: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? 
+
+A: Let's think step by step. 
+
+There are more than 501 students in the school. 
+20% of them exactly took physics. 
+28% of them exactly took math. 
+
+We can write this as: 
+
+There are more than 501 students in the school. 
+There are more than 100 students who took physics. 
+There are more than 140 students who took math. 
+
+We want to find the least possible number of students in the school. 
+
+The least possible number of students in the school is 241. 
+
+
+2st data
+
+Q: The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer 
+A: Let's think step by step. We know that the sum of k consecutive integers is 51. We also know that the least integer is -50. 
+
+We can write this out as: 
+
+-50 + (-49) + ... + k = 51 
+
+We can solve this equation for k: 
+
+k = 102 
+
+
+
+3st data
+
+Q: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? 
+A: Let's think step by step. 
+
+First, we need to calculate the area of the paper. The paper is in a square form, so the area is just the length of one side squared. The length of one side is 20 cm, so the area is 20 cm * 20 cm = 400 cm^2. 
+
+Next, we need to calculate the area of the two semi-circles. The area of a semi-circle is half the area of a circle, and the area of a circle is pi * r^2, where r is the radius. The radius of each semi-circle is half the length of one side
+
+4st data
+
+Q: Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity? 
+A: Let's think step by step. 
+
+The first thing we need to do is calculate the semi-annual interest rate. We do this by dividing the annual interest rate by the number of compounding periods per year. In this case, we divide 12% by 2 to get 6%. 
+
+Next, we need to calculate the amount of interest that accrues each six months. We do this by multiplying the face value of the bond ($5,000) by the semi-annual interest rate (6%). This gives us $300. 
+
+Now, we need to calculate the total amount of interest that accrues over the life 
+
+
+5st data
+1_th_sampling
+Q: There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?
+
+A: Let's think step by step. 
+
+There is a 90% chance that a registered voter in Burghtown voted in the last election. 
+
+There is a 10% chance that a registered voter in Burghtown did not vote in the last election. 
+
+There are 5 registered voters in total. 
+
+There are 4 ways that 4 out of 5 voters could have voted in the last election. 
+
+There is only 1 way that 3 out of 5 voters could have voted in the last election. 
+
+There are no ways that 2 out of 5 voters or 1 out of 5 voters could have voted in the last election 
+
+
+6st data
+
+Q: In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?
+
+A: Let's think step by step. 
+
+There are 12 children to the left of Neha, so there must be at least 12 children in the row. 
+
+There are 6 children to the right of Radha, so there must be at least 18 children in the row. 
+
+There are 6 children between Radha and Neha, so there must be at least 24 children in the row. 
+
+The answer must be between 24 and 27, and the only answer that satisfies this is 26. 
+
+Therefore, the answer is 26. 
+
+
+
+7st data
+
+Q: Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires? 
+
+A: Let's think step by step. 
+
+The cost of new tires is $180 per tire. 
+The cost of repairing the current tires is $40 per tire. 
+
+The difference in cost is $180 - $40 = $140. 
+
+To find the percent increase, we take the difference in cost and divide it by the original cost. In other words, we take $140 and divide it by $40. 
+
+$140/$40 = 3.5 
+
+3.5 is greater than 1, so we know that the new tires cost more than the repaired tires. 
+
+
+
+8st data
+
+Q: Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?
+
+A: Let's think step by step. 
+
+Anna is able to buy 5 more articles for $300. 
+
+That means that the 5 articles cost $60 each. 
+
+The price of each article decreased by 15%. 
+
+That means that the original price of each article was $70. 
+
+$70 - $60 = $10 
+
+The new selling price of each article is $10. 
+
+
+9st data
+
+Q: Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other? Answer Choices: (A) 3 hours (B) 5 hours (C) 6 hours (D) 4 hours (E) 7 hours
+A: Let's think step by step. 
+
+The first car will travel 15 miles in 15/55 hours. 
+The second car will travel 15 miles in 15/52 hours. 
+
+Now we need to compare the two times. 
+
+15/55 = 0.2727272727272727 
+15/52 = 0.28846153846153846 
+
+Since 0.28846153846153846 is greater than 0.2727272727272727, it will take the second car longer to travel 15 miles. 
+
+
+10st data
+1_th_sampling
+Q: A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make? 
+
+A: Let's think step by step. 
+
+The grocery sells a bag of ice for $1.25. 
+
+This means that the grocery buys the bag of ice for $1. 
+
+The grocery makes 20% profit. 
+
+This means that the grocery's profit is $0.20. 
+
+The grocery sells 500 bags of ice. 
+
+This means that the grocery's total profit is 500 * $0.20, which is $100. 
+
+
+
+11st data
+
+Q: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?
+
+A: Let's think step by step. 
+
+The car is currently travelling at 60 km/hr. 
+In order to travel the same distance in 10 hours, the car would need to travel at 6 times the speed, or 360 km/hr. 
+Therefore, the car would need to gain 300 km/hr. 
+
+
+
+12st data
+
+Q: Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.) 
+
+A: Let's think step by step. 
+
+There are 10 different types of books. 
+
+That means we need at least 10 different codes. 
+
+The codes can be either a single letter or a pair of two different letters. 
+
+That means the maximum number of codes we would need is 20. 
+
+However, we know that each type of book is uniquely represented by either a single letter or pair of letters. 
+
+That means some of the codes can be single letters, and some of the codes can be pairs of letters. 
+
+The minimum number of codes we could use is 3. 
+
+
+
+13st data
+
+Q: Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?
+
+A: Let's think step by step. 
+
+Q is as much younger than R as he is older than T. 
+Q is younger than R by x years. 
+Q is older than T by x years. 
+
+Now we have two equations and two unknowns. We can solve for x. 
+
+R + T = 50 
+R - Q = x 
+T - Q = x 
+
+R + T = 50 
+R - T = -x 
+2T = 50 - x 
+T = 25 - (1/2)x 
+
+
+
+14st data
+
+Q: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:
+
+A: Let's think step by step. 
+
+The first thing we need to do is figure out what the semi-perimeter of the room is. The semi-perimeter is just half of the perimeter, so we need to find the perimeter first. 
+
+The perimeter is just the sum of all the sides of the room. We know that the height is 2/5 of the semi-perimeter, so we can set up the following equation: 
+
+2/5sp = h 
+
+We also know that the width is 50 cm, so we can set up another equation: 
+
+w = 50 
+
+
+
+15st data
+1_th_sampling
+Q: A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join? 
+
+A: Let's think step by step. 
+
+C's share is 150,000. 
+The total profit is 375,000. 
+
+That means B's share is 375,000 - 150,000 = 225,000. 
+
+Now we know that B's share is 60,000 more than A's share. 
+
+That means A's share is 225,000 - 60,000 = 165,000. 
+
+We also know that the total amount of money invested in the business is 40,000 + 60,000 + 120,000 = 220,000. 
+
+That means the total profit is 165% of 
+Therefore, among A through E, the answer is D. C joined 24 months after B joined. 
+
+
+
+16st data
+1_th_sampling
+Q: Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile? Answer Choices:
+
+A: Let's think step by step. Jennie will bike 1/2 mile in 1 minute. In that same minute, Janice will bike 1/5 of a mile. So in one minute, they will have biked 3/10 + 1/5 = 11/20 of a mile. 
+
+It will take them (20/11) minutes to bike 1 mile. (D) 4 minutes 
+
+
+17st data
+1_th_sampling
+Q: An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined? Answer Choices: 
+
+A: Let's think step by step. 
+
+The athlete runs M miles in 4 hours. 
+That's an average speed of M/4 miles per hour. 
+
+The athlete rides a bike N miles in the same number of hours. 
+That's an average speed of N/4 miles per hour. 
+
+The average speed for these two activities combined is the sum of the average speeds for each activity, so: 
+
+(M/4) + (N/4) = (M + N)/8
+
+
+
+18st data
+1_th_sampling
+Q: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? 
+
+A: Let's think step by step. 
+There are a total of 250 files. 
+2.5 times the number of files that are infected by both a virus and a worm is 125. 
+This means that the number of files that are infected only by a worm is 125. 
+125 + 125 = 250 
+This means that all of Sam's files are infected by either a virus or a worm or both. 
+Now, if 50% of the files were not infected by a virus, this means that 50% of the files were infected by a virus. 
+125 files are infected by both a virus and a worm. 
+ 
+
+
+19st data
+1_th_sampling
+Q: By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?
+
+A: Let's think step by step. 
+
+Jack can clean a yacht in 12 hours. 
+On a particular day, he happens to finish two-thirds of the work. 
+
+That means he finishes 8 hours of work. 
+
+The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. 
+
+That means Jill's rate is 0.05*12=0.6 hours per hour. 
+
+It will take her 8/0.6=13.3 hours to finish the work. 
+
+
+
+20st data
+1_th_sampling
+Q: In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?
+
+A: Let's think step by step. 
+
+First, we need to find the equation of the line that passes through the points (a,0) and (b,0). The equation of this line is y=0. 
+
+Now, we need to find the equation of the line that passes through the points (x,y) and (0,0). The equation of this line is y=mx, where m is the slope of the line. 
+
+The area of the triangle is the area between these two lines. We can find this area by finding the integral of the equation of the line y=mx from x=a to 
+
+
+21st data
+1_th_sampling
+Q: At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?
+
+A: Let's think step by step. 
+
+First, we know that 10% of the staplers were defective. 
+
+That means that for every 10 staplers, 1 was defective. 
+
+We also know that 2% of the non-defective staplers were rejected by mistake. 
+
+That means that for every 100 non-defective staplers, 2 were rejected by mistake. 
+
+We're told that 72 of the non-defective staplers were rejected. 
+
+That means that there were 72 more staplers rejected than there were defective stapl 
+Therefore, among A through E, the answer is D. 
+
+There were 4,800 staplers produced that day.
+
+
+22st data
+1_th_sampling
+Q: A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?
+
+A: Let's think step by step. Train M leaves at 5 am and reaches City B at 9 am. Train N leaves at 7 am and reaches City A at 10:30 am. 
+
+The first train, M, will take 4 hours to reach City B. 
+The second train, N, will take 3.5 hours to reach City A. 
+
+Therefore, the two trains will cross one another at 8:30 am. 
+
+
+23st data
+1_th_sampling
+Q: Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts. 
+
+A: The first ant casts a shadow that is 10 inches long. 
+The second ant is 6 inches tall, which means that it is 2 inches taller than the first ant. 
+Since the first ant's shadow is 10 inches long, the second ant's shadow must be 2 inches longer, which means it is 12 inches long. 
+
+
+24st data
+1_th_sampling
+Q: A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day? 
+
+A: Let's think step by step. 
+
+The store had 600 golf balls in stock. 
+80% of 600 golf balls is 480 golf balls. 
+That means that the store sold 480 golf balls in total. 
+Since the store sold an equal number of yellow and white golf balls, that means that it sold 240 white golf balls. 
+That means that it had 360 yellow golf balls to begin the day. 
+
+
+
+25st data
+1_th_sampling
+Q: 900 + 5 × 12 = ? 
+
+A: Let's think step by step. 
+
+900 + 5 × 12 = 
+900 + 5 × (10 + 2) = 
+900 + 5 × 10 + 5 × 2 = 
+900 + 50 + 10 = 
+960 
+
+
+26st data
+1_th_sampling
+Q: Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?
+
+A: Let's think step by step. 
+
+Arjun and Sajal are friends, each has some money. 
+
+We can set up two equations to solve for the amount of money each person has. 
+
+Arjun + Sajal = x 
+2(x - 30) = 3(x - 10) 
+
+We can solve for x and then plug that value back into our original equation to solve for the amount of money each person has. 
+
+x = 100 
+Arjun + Sajal = 100 
+Arjun = 100 - Sajal 
+
+Now we can plug this value of 
+ 
+Arjun = 60 
+Sajal = 40
+
+
+27st data
+1_th_sampling
+Q: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?
+
+A: Let's think step by step. 
+
+We know that 27 bottles cost A cents. 
+We want to know how much B bottles will cost in dollars. 
+We can set up a proportion: 
+
+27 bottles : A cents :: B bottles : x dollars
+
+We can cross multiply to solve for x: 
+
+27x = AB 
+x = AB/27 
+
+Since we want the answer in dollars, we will divide AB by 2700: 
+
+x = AB/2700 
+
+Therefore, the answer is (A). 
+
+
+28st data
+1_th_sampling
+Q: Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day? 
+
+A: Let's think step by step. 
+
+8 am - Jim fills the bowl with dog food. 100% of the food is in the bowl. 
+9 am - The dog eats 1/3 of the food in the bowl. 66.67% of the food is in the bowl.
+10 am - The dog eats 1/3 of the food in the bowl. 44.44% of the food is in the bowl.
+11 am - The dog eats 1/3 of the food in the bowl. 29.63% of the food is in the bowl.
+12 pm - The dog eats 1/3 of the food in the bowl 
+Therefore, among A through E, the answer is closest to D, 35%. 
+
+
+
+29st data
+1_th_sampling
+Q: A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?
+
+A: Let's think step by step. 
+
+The hotel pays $210 per week for newspapers. 
+We know that a newspaper costs $4 on Sunday and $1 the rest of the days of the week. 
+We also know that the hotel orders twice as many papers on Sunday as it does the rest of the days of the week. 
+
+From this information, we can conclude that the hotel spends $4 x 2 = $8 on Sundays and $1 x 1 = $1 the rest of the days of the week. 
+
+$8 + $1 = $9 
+$9 x 7 = $63 
+
+
+
+30st data
+1_th_sampling
+Q: If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur? 
+
+A: Let's think step by step. 
+
+We know that the probability that stock A will increase in value is 0.56. 
+We also know that the probability that stock B will increase in value is 0.74. 
+
+We want to find the greatest value for the probability that neither of these two events will occur. 
+
+This means that we want to find the probability that stock A will NOT increase in value AND the probability that stock B will NOT increase in value. 
+
+We can use the AND rule for probability to help us solve this problem. 
+
+The AND rule for probability states that the probability of two events occurring 
+Therefore, among A through E, the answer is D. 
+
+P(A AND B) = P(A) * P(B)
+
+P(A AND B) = 0.
+
+
+31st data
+1_th_sampling
+Q: There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket? 
+
+A: Let's think step by step. 
+
+There are 10 oranges in the basket. 
+You want to choose 2 oranges. 
+
+How many ways can you choose the first orange? 
+There are 10 ways. 
+
+How many ways can you choose the second orange? 
+There are 9 ways. 
+
+So, there are 10 * 9 ways to choose 2 oranges from the basket. 
+
+Answer: (B) 90 
+
+
+32st data
+1_th_sampling
+Q: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? 
+
+A: Let's think step by step. 
+There are 20 white marbles in the bag. 
+We pull them out, paint them black, and put them back in. 
+Now, the bag has 20 black marbles and 20 white marbles. 
+We pull out 20 marbles again, and this time 1 of them is black. 
+This means that the percentage of black marbles pulled out the second time is 1/20, or 5%. 
+Now, we want to know how many marbles are in the bag in total. 
+We can set up the following equation: 
+
+(% black marbles pulled out 
+Therefore, among A through E, the answer is D. 
+
+
+ 
+ 
